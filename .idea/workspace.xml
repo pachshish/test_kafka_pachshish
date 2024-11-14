@@ -4,26 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc276336-99dd-42ea-bc5c-4f7eae040bfa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/testKafka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer/producer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulator/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulator/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulator/app/email_dispatcher/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulator/app/email_dispatcher/dispatch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulator/app/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulator/app/message_simulator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulator/app/message_simulator/message_simulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulator/requirements.txt" afterDir="false" />
+    <list default="true" id="dc276336-99dd-42ea-bc5c-4f7eae040bfa" name="Changes" comment="pachshish pachshish">
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/WiredTiger" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/WiredTiger.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/WiredTiger.turtle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/WiredTiger.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/WiredTigerHS.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/_mdb_catalog.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/collection-0-6448220037929057569.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/collection-2-6448220037929057569.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/collection-4-6448220037929057569.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T10-32-41Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T10-49-05Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T12-21-46Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T12-37-54Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T12-40-11Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T13-12-37Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T13-15-57Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T13-19-00Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T13-21-53Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T13-55-12Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T13-56-42Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T13-58-16Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T14-01-19Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T14-40-50Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T14-43-27Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T14-45-12Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T14-56-46Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T14-57-13Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T14-57-57Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T15-03-41Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T15-04-46Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.2024-11-14T15-05-28Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/diagnostic.data/metrics.interim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/index-1-6448220037929057569.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/index-3-6448220037929057569.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/index-5-6448220037929057569.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/index-6-6448220037929057569.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/journal/WiredTigerLog.0000000022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/journal/WiredTigerPreplog.0000000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/journal/WiredTigerPreplog.0000000002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/mongod.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/sizeStorer.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-data-4-4/storage.bson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongodb/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongodb/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongodb/mongodb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongodb/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_and_postgres/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_and_postgres/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,17 +84,26 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2oper3ofHCcGDabtbtMtzPTxQvG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Flask server.Flask (app.py).executor": "Run",
+    "Flask server.Flask (flask_and_postgres/app.py).executor": "Run",
+    "Python.consumer_all_messages.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mongo_connection.executor": "Run",
+    "Python.mongodb.executor": "Run",
+    "Python.scrit_for_six_bug.executor": "Run",
     "Python.testt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/_kodcode2_data/projects/testKafka",
+    "last_opened_file_path": "C:/_kodcode2_data/projects/testKafka/consumer_all_messages",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,10 +115,89 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_kodcode2_data\projects\testKafka\consumer_all_messages" />
+      <recent name="C:\_kodcode2_data\projects\testKafka\postgres" />
+      <recent name="C:\_kodcode2_data\projects\testKafka\mongoDB" />
       <recent name="C:\_kodcode2_data\projects\testKafka" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\_kodcode2_data\projects\testKafka\flask_and_postgres" />
+      <recent name="C:\_kodcode2_data\projects\testKafka\flask" />
+      <recent name="C:\_kodcode2_data\projects\testKafka" />
+      <recent name="C:\_kodcode2_data\projects\testKafka\consumer_all_messages" />
+      <recent name="C:\_kodcode2_data\projects\testKafka\mongodb" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.testt">
+  <component name="RunManager" selected="Flask server.Flask (flask_and_postgres/app.py)">
+    <configuration name="consumer_all_messages" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testKafka" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/consumer_all_messages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/consumer_all_messages/consumer_all_messages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testKafka" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/simulator/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simulator/app/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mongodb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testKafka" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mongodb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\_kodcode2_data\projects\testKafka\mongodb\mongodb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="testt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="testKafka" />
       <option name="ENV_FILES" value="" />
@@ -105,9 +221,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Flask (flask_and_postgres/app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="testKafka" />
+      <option name="target" value="$PROJECT_DIR$/flask_and_postgres/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
     <configuration name="testKafka" type="Python.FlaskServer">
       <module name="testKafka" />
-      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="target" value="$PROJECT_DIR$/flask_and_postgres/app.py" />
       <option name="targetType" value="PATH" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,6 +255,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Flask server.Flask (flask_and_postgres/app.py)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.consumer_all_messages" />
+        <item itemvalue="Python.mongodb" />
         <item itemvalue="Python.testt" />
       </list>
     </recent_temporary>
@@ -144,14 +280,34 @@
       <option name="presentableId" value="Default" />
       <updated>1731571139753</updated>
       <workItem from="1731571156750" duration="676000" />
-      <workItem from="1731571855260" duration="759000" />
+      <workItem from="1731571855260" duration="24538000" />
     </task>
+    <task id="LOCAL‎-00001" summary="pachshish pachshish">
+      <option name="closed" value="true" />
+      <created>1731599457071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1731599457071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pachshish pachshishhhhhhhhhhhhhhhhhhhhhhhhhhh" />
+    <MESSAGE value="pachshish pachshish" />
+    <option name="LAST_COMMIT_MESSAGE" value="pachshish pachshish" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/testKafka$testt.coverage" NAME="testt Coverage Results" MODIFIED="1731572149439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/testKafka$mongo_connection.coverage" NAME="mongo_connection Coverage Results" MODIFIED="1731578825514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mongoDB" />
+    <SUITE FILE_PATH="coverage/testKafka$testt.coverage" NAME="testt Coverage Results" MODIFIED="1731586654589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/testKafka$mongodb.coverage" NAME="mongodb Coverage Results" MODIFIED="1731588747451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mongodb" />
+    <SUITE FILE_PATH="coverage/testKafka$consumer_all_messages.coverage" NAME="consumer_all_messages Coverage Results" MODIFIED="1731595636837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/consumer_all_messages" />
+    <SUITE FILE_PATH="coverage/testKafka$main.coverage" NAME="main Coverage Results" MODIFIED="1731596851000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simulator/app" />
+    <SUITE FILE_PATH="coverage/testKafka$scrit_for_six_bug.coverage" NAME="scrit_for_six_bug Coverage Results" MODIFIED="1731574911138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/testKafka$Flask__app_py_.coverage" NAME="Flask (flask_and_postgres/app.py) Coverage Results" MODIFIED="1731597471302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
