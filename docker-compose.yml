@@ -8,20 +8,6 @@ services:
     ports:
       - "2181:2181"
 
-
-  db-sql:
-    image: postgres:13
-    restart: always
-    environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: 1234
-      POSTGRES_DB: mydb
-    volumes:
-      - ./sql-data:/data/mydb
-    ports:
-      - "5432:5432"
-
-
   kafka:
     image: confluentinc/cp-kafka:latest
     depends_on:
@@ -31,31 +17,16 @@ services:
     environment:
       KAFKA_BROKER_ID: 1
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
-      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://localhost:9092
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
 
   mongodb:
-    image: mongo:4.4
-    container_name: mongodb
+    image: mongo:latest
     ports:
       - "27017:27017"
     volumes:
-      - ./mongo-data-4-4:/data/db
-    healthcheck:
-      test: [ "CMD", "mongo", "--eval", "db.adminCommand('ping')" ]
-      interval: 10s
-      timeout: 5s
-      retries: 5
-
-
-  consumer_all_messages:
-    build: ./consumer_all_messages
-    depends_on:
-      - kafka
-      - mongodb
-
-
-
+      - mongo_data:/data/db
 
 volumes:
+  db_data:
   mongo_data:

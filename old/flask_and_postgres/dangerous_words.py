@@ -2,8 +2,8 @@ import json
 
 from kafka import KafkaConsumer
 
-from flask_and_postgres.dangerous_db import db_session
-from flask_and_postgres.emailModel import EmailModel, HostageModel, ExplosiveModel
+from old.flask_and_postgres.dangerous_db import db_session
+from old.flask_and_postgres.emailModel import EmailModel, HostageModel, ExplosiveModel
 
 consumer = KafkaConsumer(
     'dangerous_messages_topic',

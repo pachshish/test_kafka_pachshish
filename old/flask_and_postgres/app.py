@@ -1,7 +1,7 @@
 from flask import Flask, request
 from kafka import KafkaProducer
 
-from flask_and_postgres.dangerous_db import init_db
+from old.flask_and_postgres.dangerous_db import init_db
 
 app = Flask(__name__)
 producer = KafkaProducer(bootstrap_servers='localhost:9092')

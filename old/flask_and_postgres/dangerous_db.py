@@ -1,6 +1,6 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import scoped_session, sessionmaker
-from flask_and_postgres.emailModel import *
+from old.flask_and_postgres.emailModel import *
 
 URI = 'postgresql://postgres:1234@localhost:5432/mydb'
 #יצירת החיבור והרצת הדאטאבייס
